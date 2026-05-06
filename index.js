@@ -13,7 +13,7 @@ app.get('/api/members', (req, res) => {
     let result = data.data;
 
     // Optional query params for filtering
-    const { type, name } = req.query;
+    const { type, name, zodiac, blood_type } = req.query;
     
     if (type) {
         result = result.filter(member => member.type.toLowerCase() === type.toLowerCase());
@@ -24,6 +24,14 @@ app.get('/api/members', (req, res) => {
             member.name.toLowerCase().includes(name.toLowerCase()) || 
             member.nickname.toLowerCase().includes(name.toLowerCase())
         );
+    }
+    
+    if (zodiac) {
+        result = result.filter(member => member.zodiac && member.zodiac.toLowerCase() === zodiac.toLowerCase());
+    }
+    
+    if (blood_type) {
+        result = result.filter(member => member.blood_type && member.blood_type.toLowerCase() === blood_type.toLowerCase());
     }
 
     res.json({
@@ -91,7 +99,7 @@ app.get('/', (req, res) => {
         name: "JKT48 Member API",
         description: "API sederhana untuk data member JKT48",
         endpoints: {
-            "GET /api/members": "Mendapatkan semua member (bisa difilter dengan query ?type=PASSION atau ?name=olla)",
+            "GET /api/members": "Mendapatkan semua member (bisa difilter dengan query ?type=PASSION, ?name=olla, ?zodiac=leo, ?blood_type=o)",
             "GET /api/members/:code": "Mendapatkan detail member berdasarkan kode (contoh: FREYA_JAYAWARDANA)",
             "GET /api/teams": "Mendapatkan daftar tim/status yang tersedia (PASSION, LOVE, DREAM, TRAINEE, dll)",
             "GET /api/teams/:team": "Mendapatkan member berdasarkan tim (contoh: /api/teams/PASSION)"

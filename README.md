@@ -25,9 +25,12 @@ API sederhana dan cepat untuk mendapatkan data member JKT48. Dibuat menggunakan 
 **Query Parameters (Opsional):**
 - `type`: Filter berdasarkan tim (contoh: `PASSION`, `DREAM`, `LOVE`).
 - `name`: Cari berdasarkan nama atau nickname (contoh: `freya`).
+- `zodiac`: Filter berdasarkan zodiak (contoh: `leo`, `virgo`).
+- `blood_type`: Filter berdasarkan golongan darah (contoh: `o`, `a`, `b`, `ab`).
 
 **Contoh Request:**
 `GET /api/members?type=PASSION&name=olla`
+`GET /api/members?zodiac=leo`
 
 ---
 
