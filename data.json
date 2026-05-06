@@ -8,7 +8,18 @@
             "name": "Abigail Rachel",
             "nickname": "Aralie",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/abigail_rachel.jpg",
-            "jkt48_member_id": 1
+            "jkt48_member_id": 1,
+            "birth_date": "2008-08-06",
+            "blood_type": "B",
+            "zodiac": "Leo",
+            "height": 161,
+            "social_media": {
+                "instagram": "jkt48.aralie",
+                "x": "Aralie_JKT48",
+                "tiktok": "jkt48.aralie"
+            },
+            "jikoshoukai": "Seperti bunga yang mekar, aku akan membuat kamu, kamu, dan kamu terbayang-bayang.",
+            "hobbies": ["Menyanyi", "Menari", "Menggambar", "Mendengarkan musik", "Menonton anime"]
         },
         {
             "type": "DREAM",
@@ -16,7 +27,18 @@
             "name": "Adeline Wijaya",
             "nickname": "Delynn",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/adeline_wijaya.jpg",
-            "jkt48_member_id": 2
+            "jkt48_member_id": 2,
+            "birth_date": "2007-09-01",
+            "blood_type": "B",
+            "zodiac": "Virgo",
+            "height": 167,
+            "social_media": {
+                "instagram": "jkt48.delynn",
+                "x": "Delynn_JKT48",
+                "tiktok": "jkt48.delynn"
+            },
+            "jikoshoukai": "Nyemangatin dan ngangenin, siapa yang kamu pikirin? Pyong pyong, Aku Delynn!",
+            "hobbies": ["Menyanyi", "Menari", "Membaca"]
         },
         {
             "type": "TRAINEE",
@@ -24,7 +46,18 @@
             "name": "Afera Thalia",
             "nickname": "Fera",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/afera_thalia.jpg",
-            "jkt48_member_id": 6
+            "jkt48_member_id": 6,
+            "birth_date": "2012-10-20",
+            "blood_type": "O",
+            "zodiac": "Libra",
+            "height": 160,
+            "social_media": {
+                "instagram": "fera.jkt48",
+                "x": "Fera_JKT48",
+                "tiktok": "jkt48.fera"
+            },
+            "jikoshoukai": "Satu shoot-ku menciptakan three point di hati kamu.",
+            "hobbies": ["Bermain basket", "Menari"]
         },
         {
             "type": "LOVE",
@@ -32,7 +65,18 @@
             "name": "Alya Amanda",
             "nickname": "Alya",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/alya_amanda.jpg",
-            "jkt48_member_id": 13
+            "jkt48_member_id": 13,
+            "birth_date": "2006-08-26",
+            "blood_type": "A",
+            "zodiac": "Virgo",
+            "height": 165,
+            "social_media": {
+                "instagram": "jkt48.alya_",
+                "x": "AA_AlyaJKT48",
+                "tiktok": "alyajkt48"
+            },
+            "jikoshoukai": "Jika hatimu sedang menangis, Aku akan datang sebagai pelangi.",
+            "hobbies": ["Modeling", "Mendengarkan musik", "Membaca"]
         },
         {
             "type": "PASSION",
@@ -40,7 +84,18 @@
             "name": "Angelina Christy",
             "nickname": "Christy",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/angelina_christy.jpg",
-            "jkt48_member_id": 22
+            "jkt48_member_id": 22,
+            "birth_date": "2005-12-05",
+            "blood_type": "O",
+            "zodiac": "Sagitarius",
+            "height": 163,
+            "social_media": {
+                "instagram": "jkt48.christy",
+                "x": "A_ChristyJKT48",
+                "tiktok": "christyjkt48"
+            },
+            "jikoshoukai": "Peduli dan berbaik hati, siapakah dia? Christy~",
+            "hobbies": ["Menyanyi", "Menari", "Nonton film"]
         },
         {
             "type": "LOVE",
@@ -48,7 +103,18 @@
             "name": "Anindya Ramadhani",
             "nickname": "Anindya",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/anindya_ramadhani.jpg",
-            "jkt48_member_id": 26
+            "jkt48_member_id": 26,
+            "birth_date": "2005-10-18",
+            "blood_type": "O",
+            "zodiac": "Libra",
+            "height": 154,
+            "social_media": {
+                "instagram": "jkt48.anindya_",
+                "x": "AR_AnindyaJKT48",
+                "tiktok": "anindyajkt48"
+            },
+            "jikoshoukai": "Si mungil hadir semanis mangga. Hai, aku Anindya!",
+            "hobbies": ["Menyanyi", "Menari", "Membaca"]
         },
         {
             "type": "TRAINEE",
@@ -56,7 +122,18 @@
             "name": "Astrella Virgiananda",
             "nickname": "Virgi",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Astrella_Virgiananda.jpg",
-            "jkt48_member_id": 28
+            "jkt48_member_id": 28,
+            "birth_date": "2010-08-06",
+            "blood_type": "AB",
+            "zodiac": "Leo",
+            "height": 162,
+            "social_media": {
+                "instagram": "virgi.jkt48",
+                "x": "A_VirgiJKT48",
+                "tiktok": "jkt48.virgi"
+            },
+            "jikoshoukai": "Ding-dong! Skate, spin, smile.",
+            "hobbies": ["Menari", "Ice skating"]
         },
         {
             "type": "TRAINEE",
@@ -64,7 +141,18 @@
             "name": "Aulia Riza",
             "nickname": "Auwia",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Aulia_Riza.jpg",
-            "jkt48_member_id": 30
+            "jkt48_member_id": 30,
+            "birth_date": "2007-07-14",
+            "blood_type": "O",
+            "zodiac": "Cancer",
+            "height": 166,
+            "social_media": {
+                "instagram": "auwia.jkt48",
+                "x": "Auwia_JKT48",
+                "tiktok": "jkt48.auwia"
+            },
+            "jikoshoukai": "Datang bawa tawa, pulang bawa rindu.",
+            "hobbies": ["Menyanyi", "Menari", "Mendengarkan musik"]
         },
         {
             "type": "LOVE",
@@ -72,7 +160,18 @@
             "name": "Aurellia",
             "nickname": "Lia",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/aurellia.jpg",
-            "jkt48_member_id": 31
+            "jkt48_member_id": 31,
+            "birth_date": "2002-10-29",
+            "blood_type": "O",
+            "zodiac": "Scorpio",
+            "height": 155,
+            "social_media": {
+                "instagram": "jkt48.aurellia_",
+                "x": "AU_LiaJKT48",
+                "tiktok": "jkt48.aurellia_"
+            },
+            "jikoshoukai": "Si social butterfly yang energik dan periang! Halo, aku Lia!",
+            "hobbies": ["Menyanyi", "Menari", "Bersosialisasi"]
         },
         {
             "type": "LOVE",
@@ -80,7 +179,18 @@
             "name": "Aurhel Alana",
             "nickname": "Lana",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/aurhel_alana.jpg",
-            "jkt48_member_id": 33
+            "jkt48_member_id": 33,
+            "birth_date": "2006-09-14",
+            "blood_type": null,
+            "zodiac": "Virgo",
+            "height": 163,
+            "social_media": {
+                "instagram": "jkt48.lana.a",
+                "x": "AR_LanaJKT48",
+                "tiktok": "jkt48.lana"
+            },
+            "jikoshoukai": "Dengan kekuatan bulan, aku akan menyihirmu dengan pesonaku.",
+            "hobbies": ["Menyanyi", "Menari", "Membaca"]
         },
         {
             "type": "TRAINEE",
@@ -88,7 +198,18 @@
             "name": "Bong Aprilli",
             "nickname": "Rilly",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Bong_Aprilli.jpg",
-            "jkt48_member_id": 39
+            "jkt48_member_id": 39,
+            "birth_date": "2010-04-01",
+            "blood_type": "A",
+            "zodiac": "Aries",
+            "height": 164,
+            "social_media": {
+                "instagram": "rilly.jkt48_",
+                "x": "Rilly_JKT48",
+                "tiktok": "jkt48.rilly"
+            },
+            "jikoshoukai": "Hip-hop! Aku Sona, buat kamu terpesona!",
+            "hobbies": ["Menyanyi", "Menari"]
         },
         {
             "type": "TRAINEE",
@@ -96,7 +217,18 @@
             "name": "Carissa Dini",
             "nickname": "Carissa",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/carissa_dini.jpg",
-            "jkt48_member_id": 43
+            "jkt48_member_id": 43,
+            "birth_date": "2012-02-02",
+            "blood_type": "A",
+            "zodiac": "Aquarius",
+            "height": 154,
+            "social_media": {
+                "instagram": "carissa.jkt48",
+                "x": "Carissa_JKT48",
+                "tiktok": "jkt48.carissa"
+            },
+            "jikoshoukai": "Aku adalah pemberi ramuan kedamaian, only for you!",
+            "hobbies": ["Menonton film", "Mendengarkan lagu"]
         },
         {
             "type": "PASSION",
@@ -104,7 +236,18 @@
             "name": "Catherina Vallencia",
             "nickname": "Erine",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/catherina_vallencia.jpg",
-            "jkt48_member_id": 44
+            "jkt48_member_id": 44,
+            "birth_date": "2007-08-21",
+            "blood_type": "O",
+            "zodiac": "Leo",
+            "height": 163,
+            "social_media": {
+                "instagram": "jkt48.erine",
+                "x": "CErine_JKT48",
+                "tiktok": "jkt48.erine_"
+            },
+            "jikoshoukai": "Hadir dengan seribu kejutan, Checkmate! Siap memenangkan hatimu.",
+            "hobbies": ["Menyanyi", "Menari", "Travelling"]
         },
         {
             "type": "LOVE",
@@ -112,7 +255,18 @@
             "name": "Cathleen Nixie",
             "nickname": "Cathy",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/cathleen_nixie.jpg",
-            "jkt48_member_id": 45
+            "jkt48_member_id": 45,
+            "birth_date": "2009-05-28",
+            "blood_type": "A",
+            "zodiac": "Gemini",
+            "height": 158,
+            "social_media": {
+                "instagram": "jkt48.cathy",
+                "x": "N_CathyJKT48",
+                "tiktok": "cathyjkt48"
+            },
+            "jikoshoukai": "Tring! Si peri cantik jelita, itulah Aku. Halo, aku Cathy!",
+            "hobbies": ["Akting", "Menari", "Berenang"]
         },
         {
             "type": "LOVE",
@@ -120,7 +274,18 @@
             "name": "Celline Thefani",
             "nickname": "Elin",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/celline_thefani.jpg",
-            "jkt48_member_id": 46
+            "jkt48_member_id": 46,
+            "birth_date": "2007-04-09",
+            "blood_type": "O",
+            "zodiac": "Aries",
+            "height": 163,
+            "social_media": {
+                "instagram": "jkt48.elin_",
+                "x": "Elin_JKT48",
+                "tiktok": "elinjkt48"
+            },
+            "jikoshoukai": "Semanis permen kapas dan seindah bunga lavender.",
+            "hobbies": ["Menyanyi", "Menari", "Mendengarkan musik"]
         },
         {
             "type": "DREAM",
@@ -128,7 +293,18 @@
             "name": "Chelsea Davina",
             "nickname": "Chelsea",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/chelsea_davina.jpg",
-            "jkt48_member_id": 48
+            "jkt48_member_id": 48,
+            "birth_date": "2009-12-23",
+            "blood_type": "B",
+            "zodiac": "Capricorn",
+            "height": 168,
+            "social_media": {
+                "instagram": "jkt48.chelsea.d",
+                "x": "DC_ChelseaJKT48",
+                "tiktok": "_chelseajkt48"
+            },
+            "jikoshoukai": "As bright as a shooting star in the starry night sky!",
+            "hobbies": ["Menyanyi", "Menari", "Bermain dengan hewan"]
         },
         {
             "type": "TRAINEE",
@@ -136,7 +312,18 @@
             "name": "Christabella Bonita",
             "nickname": "Bella",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/christabella_bonita.jpg",
-            "jkt48_member_id": 52
+            "jkt48_member_id": 52,
+            "birth_date": "2011-03-02",
+            "blood_type": "A",
+            "zodiac": "Pisces",
+            "height": 161,
+            "social_media": {
+                "instagram": "bella.jkt48",
+                "x": "Bella_JKT48",
+                "tiktok": "jkt48.bella"
+            },
+            "jikoshoukai": "Ding-dong! Skate, spin, smile.",
+            "hobbies": ["Menari", "Ice skating"]
         },
         {
             "type": "PASSION",
@@ -144,7 +331,18 @@
             "name": "Cornelia Vanisa",
             "nickname": "Oniel",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/cornelia_vanisa.jpg",
-            "jkt48_member_id": 59
+            "jkt48_member_id": 59,
+            "birth_date": "2002-07-26",
+            "blood_type": "O",
+            "zodiac": "Leo",
+            "height": 162,
+            "social_media": {
+                "instagram": "jkt48.oniel",
+                "x": "C_OnielJKT48",
+                "tiktok": "onieljkt48"
+            },
+            "jikoshoukai": "Seperti teka-teki yang akan membuat kalian penasaran denganku! Halo aku Oniel!",
+            "hobbies": ["Menyanyi", "Menari", "Membaca komik"]
         },
         {
             "type": "LOVE",
@@ -152,7 +350,18 @@
             "name": "Cynthia Yaputera",
             "nickname": "Cynthia",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/cynthia_yaputera.jpg",
-            "jkt48_member_id": 60
+            "jkt48_member_id": 60,
+            "birth_date": "2003-11-22",
+            "blood_type": "O",
+            "zodiac": "Sagitarius",
+            "height": 158,
+            "social_media": {
+                "instagram": "jkt48.cynthia",
+                "x": "Y_CynthiaJKT48",
+                "tiktok": "cynthiajkt48"
+            },
+            "jikoshoukai": "Semangatku terus menerus meluap. POP! POP! Aku Cynthia yang selalu semangat!",
+            "hobbies": ["Desain interior", "Menyanyi", "Menari"]
         },
         {
             "type": "PASSION",
@@ -160,7 +369,18 @@
             "name": "Dena Natalia",
             "nickname": "Danella",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/dena_natalia.jpg",
-            "jkt48_member_id": 64
+            "jkt48_member_id": 64,
+            "birth_date": "2005-12-16",
+            "blood_type": "O",
+            "zodiac": "Sagitarius",
+            "height": 162,
+            "social_media": {
+                "instagram": "jkt48.danella",
+                "x": "Danella_JKT48",
+                "tiktok": "danellajkt48"
+            },
+            "jikoshoukai": "Tok-tok! Si penari yang akan menarikmu ke duniaku!",
+            "hobbies": ["Menari", "Menyanyi", "Seni kreatif"]
         },
         {
             "type": "PASSION",
@@ -168,7 +388,18 @@
             "name": "Desy Natalia",
             "nickname": "Daisy",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/desy_natalia.jpg",
-            "jkt48_member_id": 67
+            "jkt48_member_id": 67,
+            "birth_date": "2005-12-16",
+            "blood_type": "O",
+            "zodiac": "Sagitarius",
+            "height": 165,
+            "social_media": {
+                "instagram": "jkt48.daisy",
+                "x": "Daisy_JKT48",
+                "tiktok": "daisyjkt48"
+            },
+            "jikoshoukai": "Seperti bunga daisy, aku akan memancarkan kesegaran dan kebahagiaan!",
+            "hobbies": ["Menyanyi", "Menari", "Kuliah performing arts"]
         },
         {
             "type": "TRAINEE",
@@ -176,7 +407,18 @@
             "name": "Fahira Putri",
             "nickname": "Fahira",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/fahira_putri.jpg",
-            "jkt48_member_id": 82
+            "jkt48_member_id": 82,
+            "birth_date": "2012-08-13",
+            "blood_type": "O",
+            "zodiac": "Leo",
+            "height": 152,
+            "social_media": {
+                "instagram": "fahira.jkt48",
+                "x": "Fahira_JKT48",
+                "tiktok": "jkt48.fahira"
+            },
+            "jikoshoukai": "Sekali senyum langsung buatmu jatuh cinta.",
+            "hobbies": ["Menari"]
         },
         {
             "type": "TRAINEE",
@@ -184,7 +426,18 @@
             "name": "Fatimah Azzahra",
             "nickname": "Rara",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/fatimah_azzahra.jpg",
-            "jkt48_member_id": 85
+            "jkt48_member_id": 85,
+            "birth_date": "2010-08-30",
+            "blood_type": "AB",
+            "zodiac": "Virgo",
+            "height": 170,
+            "social_media": {
+                "instagram": "rara.jkt48",
+                "x": "Rara_JKT48",
+                "tiktok": "jkt48.rara"
+            },
+            "jikoshoukai": "Datang bawa tawa, pulang bawa rindu.",
+            "hobbies": ["Mendengarkan musik", "Menari"]
         },
         {
             "type": "DREAM",
@@ -192,7 +445,18 @@
             "name": "Febriola Sinambela",
             "nickname": "Olla",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/febriola_sinambela.jpg",
-            "jkt48_member_id": 88
+            "jkt48_member_id": 88,
+            "birth_date": "2005-02-26",
+            "blood_type": "B",
+            "zodiac": "Pisces",
+            "height": 154,
+            "social_media": {
+                "instagram": "jkt48.olla",
+                "x": "F_OllaJKT48",
+                "tiktok": "ollajkt48"
+            },
+            "jikoshoukai": "Dengan keajaibanku, aku akan membuat kalian selalu tertawa. Halo, Aku Olla si mechanic girl!",
+            "hobbies": ["Mekanik", "Menyanyi", "Menari"]
         },
         {
             "type": "PASSION",
@@ -200,7 +464,18 @@
             "name": "Feni Fitriyanti",
             "nickname": "Feni",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/feni_fitriyanti.jpg",
-            "jkt48_member_id": 89
+            "jkt48_member_id": 89,
+            "birth_date": "1999-01-16",
+            "blood_type": "O",
+            "zodiac": "Capricorn",
+            "height": 162,
+            "social_media": {
+                "instagram": "jkt48feni",
+                "x": "F_FeniJKT48",
+                "tiktok": "fenijkt48"
+            },
+            "jikoshoukai": "Matahari yang indah yang akan selalu memberikan kehangatan setiap harinya. Halo Aku Feni!",
+            "hobbies": ["Menyanyi", "Menari", "Travelling"]
         },
         {
             "type": "LOVE",
@@ -208,7 +483,18 @@
             "name": "Fiony Alveria",
             "nickname": "Fiony",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/fiony_alveria.jpg",
-            "jkt48_member_id": 91
+            "jkt48_member_id": 91,
+            "birth_date": "2002-02-04",
+            "blood_type": "O",
+            "zodiac": "Aquarius",
+            "height": 158,
+            "social_media": {
+                "instagram": "jkt48.fiony",
+                "x": "A_FionyJKT48",
+                "tiktok": "fionyjkt48"
+            },
+            "jikoshoukai": "Seperti simfoni yang menenangkan hati. Halo, aku Fiony!",
+            "hobbies": ["Menyanyi", "Menari", "Fotografi"]
         },
         {
             "type": "DREAM",
@@ -216,39 +502,75 @@
             "name": "Freya Jayawardana",
             "nickname": "Freya",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/freya_jayawardana.jpg",
-            "jkt48_member_id": 94
+            "jkt48_member_id": 94,
+            "birth_date": "2006-02-13",
+            "blood_type": "B",
+            "zodiac": "Aquarius",
+            "height": 154,
+            "social_media": {
+                "instagram": "jkt48.freya",
+                "x": "Freya_JKT48",
+                "tiktok": "freyajkt48"
+            },
+            "jikoshoukai": "Gadis koleris yang suka berimajinasi, terangi harimu dengan senyum karamelku. Halo semua, aku Freya!",
+            "hobbies": ["Menari", "Menyanyi", "Fotografi", "Travelling", "Membaca novel"]
         },
         {
             "type": "LOVE",
-            "code": "FRITZY_ROSMERIAN",
-            "name": "Fritzy Rosmerian",
-            "nickname": "Fritzy",
-            "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/fritzy_rosmerian.jpg",
-            "jkt48_member_id": 96
-        },
-        {
-            "type": "DREAM",
             "code": "GABRIELA_ABIGAIL",
             "name": "Gabriela Abigail",
             "nickname": "Ella",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/gabriela_abigail.jpg",
-            "jkt48_member_id": 97
+            "jkt48_member_id": 97,
+            "birth_date": "2006-08-07",
+            "blood_type": "B",
+            "zodiac": "Leo",
+            "height": 160,
+            "social_media": {
+                "instagram": "jkt48.ella.a",
+                "x": "AM_EllaJKT48",
+                "tiktok": "jkt48.ella.a"
+            },
+            "jikoshoukai": "Ohayo! Konnichiwa! Oyasumi! Aku ingin ada di setiap harimu. Hai, Aku Ella!",
+            "hobbies": ["Menggambar", "Mendengarkan musik", "Menonton film fantasy & anime"]
         },
         {
-            "type": "DREAM",
+            "type": "LOVE",
             "code": "GENDIS_MAYRANNISA",
             "name": "Gendis Mayrannisa",
             "nickname": "Gendis",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/gendis_mayrannisa.jpg",
-            "jkt48_member_id": 102
+            "jkt48_member_id": 99,
+            "birth_date": "2010-06-23",
+            "blood_type": "B",
+            "zodiac": "Cancer",
+            "height": 160,
+            "social_media": {
+                "instagram": "jkt48.gendis",
+                "x": "Gendis_JKT48",
+                "tiktok": "gendisjkt48"
+            },
+            "jikoshoukai": "Bonjour! Periang dan pencair suasana, itulah aku.",
+            "hobbies": ["Menyanyi", "Menari", "Memasak"]
         },
         {
-            "type": "DREAM",
+            "type": "LOVE",
             "code": "GITA_SEKAR_ANDARINI",
             "name": "Gita Sekar Andarini",
             "nickname": "Gita",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/gita_sekar_andarini.jpg",
-            "jkt48_member_id": 104
+            "jkt48_member_id": 102,
+            "birth_date": "2001-06-30",
+            "blood_type": "O",
+            "zodiac": "Cancer",
+            "height": 165,
+            "social_media": {
+                "instagram": "jkt48gita",
+                "x": "A_GitaJKT48",
+                "tiktok": "gitajkt48"
+            },
+            "jikoshoukai": "Diam bukan berarti tidak memperhatikanmu, aku Gita!",
+            "hobbies": ["Menyanyi", "Menari", "Membaca"]
         },
         {
             "type": "LOVE",
@@ -256,39 +578,56 @@
             "name": "Grace Octaviani",
             "nickname": "Gracie",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/grace_octaviani.jpg",
-            "jkt48_member_id": 105
+            "jkt48_member_id": 103,
+            "birth_date": "2007-10-18",
+            "blood_type": "B",
+            "zodiac": "Libra",
+            "height": 165,
+            "social_media": {
+                "instagram": "jkt48.gracie",
+                "x": "Gracie_JKT48",
+                "tiktok": "graciejkt48"
+            },
+            "jikoshoukai": "Manis seperti gulali, imut seperti kelinci. Cie cie cie, Gracie!",
+            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
         },
         {
-            "type": "DREAM",
+            "type": "LOVE",
             "code": "GREESELLA_ADHALIA",
             "name": "Greesella Adhalia",
             "nickname": "Greesel",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/greesella_adhalia.jpg",
-            "jkt48_member_id": 107
+            "jkt48_member_id": 104,
+            "birth_date": "2006-01-10",
+            "blood_type": "O",
+            "zodiac": "Capricorn",
+            "height": 165,
+            "social_media": {
+                "instagram": "jkt48.greesel",
+                "x": "Greesel_JKT48",
+                "tiktok": "greeseljkt48"
+            },
+            "jikoshoukai": "Pandangan mataku akan menyinari hatimu bagaikan kunang-kunang di malam hari. Halo aku Greesel!",
+            "hobbies": ["Menyanyi", "Menari", "Membaca"]
         },
         {
-            "type": "TRAINEE",
-            "code": "HAGIA_SOPIA",
-            "name": "Hagia Sopia",
-            "nickname": "Giaa",
-            "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Hagia_Sopia.jpg",
-            "jkt48_member_id": 108
-        },
-        {
-            "type": "TRAINEE",
-            "code": "HEIDI_SUYANGGA",
-            "name": "Heidi Suyangga",
-            "nickname": "Heidi",
-            "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/heidi_suyangga.jpg",
-            "jkt48_member_id": 111
-        },
-        {
-            "type": "DREAM",
+            "type": "LOVE",
             "code": "HELISMA_PUTRI",
             "name": "Helisma Putri",
             "nickname": "Eli",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/helisma_putri.jpg",
-            "jkt48_member_id": 112
+            "jkt48_member_id": 108,
+            "birth_date": "2000-06-15",
+            "blood_type": "A",
+            "zodiac": "Gemini",
+            "height": 165,
+            "social_media": {
+                "instagram": "jkt48.eli",
+                "x": "H_EliJKT48",
+                "tiktok": "elijkt48"
+            },
+            "jikoshoukai": "Bagai lembayung senja, dengan energi kegembiraanku, Aku akan menghangatkan suasana. Halo halo, aku ceu Eli!",
+            "hobbies": ["Menyanyi", "Menari", "Memasak"]
         },
         {
             "type": "LOVE",
@@ -296,15 +635,18 @@
             "name": "Hillary Abigail",
             "nickname": "Lily",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/hillary_abigail.jpg",
-            "jkt48_member_id": 114
-        },
-        {
-            "type": "TRAINEE",
-            "code": "HUMAIRA_RAMADHANI",
-            "name": "Humaira Ramadhani",
-            "nickname": "Maira",
-            "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Humaira_Ramadhani.jpg",
-            "jkt48_member_id": 115
+            "jkt48_member_id": 110,
+            "birth_date": "2007-10-19",
+            "blood_type": "O",
+            "zodiac": "Libra",
+            "height": 160,
+            "social_media": {
+                "instagram": "jkt48.lily_",
+                "x": "Lily_JKT48",
+                "tiktok": "jkt48.lily"
+            },
+            "jikoshoukai": "Papipapipum! Aku akan mengejutkanmu dengan kehebatanku.",
+            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
         },
         {
             "type": "LOVE",
@@ -312,15 +654,18 @@
             "name": "Indah Cahya",
             "nickname": "Indah",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/indah_cahya.jpg",
-            "jkt48_member_id": 116
-        },
-        {
-            "type": "JKT48_VIRTUAL",
-            "code": "ISHA_KIRANA",
-            "name": "Isha Kirana",
-            "nickname": "Isha",
-            "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/isha_kirana.png",
-            "jkt48_member_id": 119
+            "jkt48_member_id": 113,
+            "birth_date": "2001-03-20",
+            "blood_type": "A",
+            "zodiac": "Pisces",
+            "height": 165,
+            "social_media": {
+                "instagram": "jkt48indah_",
+                "x": "C_IndahJKT48",
+                "tiktok": "indahjkt48"
+            },
+            "jikoshoukai": "Tak banyak bicara, bercerita melalui tulisan. Hai aku Indah!",
+            "hobbies": ["Menulis", "Membaca", "Menyanyi"]
         },
         {
             "type": "TRAINEE",
@@ -328,7 +673,18 @@
             "name": "Jacqueline Immanuela",
             "nickname": "Ekin",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Jacqueline_Immanuela.jpg",
-            "jkt48_member_id": 120
+            "jkt48_member_id": 120,
+            "birth_date": "2009-07-09",
+            "blood_type": "B",
+            "zodiac": "Cancer",
+            "height": 160,
+            "social_media": {
+                "instagram": "ekin.jkt48",
+                "x": "Ekin_JKT48",
+                "tiktok": "jkt48.ekin"
+            },
+            "jikoshoukai": "Happy terus tanpa batas. Seno, Hai Hai, Heidy!",
+            "hobbies": ["Menyanyi", "Menari"]
         },
         {
             "type": "LOVE",
@@ -336,7 +692,18 @@
             "name": "Jazzlyn Trisha",
             "nickname": "Trisha",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/jazzlyn_trisha.jpg",
-            "jkt48_member_id": 121
+            "jkt48_member_id": 121,
+            "birth_date": "2011-02-16",
+            "blood_type": "O",
+            "zodiac": "Aquarius",
+            "height": 164,
+            "social_media": {
+                "instagram": "jkt48.trisha",
+                "x": "JTrisha_JKT48",
+                "tiktok": "jkt48.trisha"
+            },
+            "jikoshoukai": "Pelukis yang hadir di mimpi-mimpi indahmu. One, two, three...sha!",
+            "hobbies": ["Melukis", "Menari", "Menyanyi"]
         },
         {
             "type": "TRAINEE",
@@ -344,7 +711,18 @@
             "name": "Jemima Evodie",
             "nickname": "Jemima",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Jemima_Evodie.jpg",
-            "jkt48_member_id": 123
+            "jkt48_member_id": 123,
+            "birth_date": "2009-11-09",
+            "blood_type": "O",
+            "zodiac": "Scorpio",
+            "height": 165,
+            "social_media": {
+                "instagram": "jemima.jkt48",
+                "x": "JE_JemimaJKT48",
+                "tiktok": "jkt48.jemima"
+            },
+            "jikoshoukai": "Musik jazz on, semangat on!",
+            "hobbies": ["Menyanyi", "Menari", "Mendengarkan musik jazz"]
         },
         {
             "type": "PASSION",
@@ -352,7 +730,18 @@
             "name": "Jessica Chandra",
             "nickname": "Jessi",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/jessica_chandra.jpg",
-            "jkt48_member_id": 127
+            "jkt48_member_id": 127,
+            "birth_date": "2005-09-23",
+            "blood_type": "O",
+            "zodiac": "Libra",
+            "height": 163,
+            "social_media": {
+                "instagram": "jkt48.jessi",
+                "x": "C_JessiJKT48",
+                "tiktok": "jessijkt48"
+            },
+            "jikoshoukai": "Suka menari dan akan selalu berusaha untuk menjadi sumber energimu. Hi, aku Jessi!",
+            "hobbies": ["Menari", "Menyanyi", "Olahraga"]
         },
         {
             "type": "DREAM",
@@ -360,7 +749,18 @@
             "name": "Jesslyn Elly",
             "nickname": "Lyn",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/jesslyn_elly.jpg",
-            "jkt48_member_id": 131
+            "jkt48_member_id": 131,
+            "birth_date": "2001-09-13",
+            "blood_type": "O",
+            "zodiac": "Virgo",
+            "height": 155,
+            "social_media": {
+                "instagram": "jkt48.lyn.s",
+                "x": "SE_LynJKT48",
+                "tiktok": "jkt48.lyn.s"
+            },
+            "jikoshoukai": "Seperti ombak laut yang tenang, tiba-tiba aku akan menyapumu dengan banyak cinta!",
+            "hobbies": ["Musik jazz", "Piano", "Gitar", "Biola", "Main game"]
         },
         {
             "type": "PASSION",
@@ -368,7 +768,18 @@
             "name": "Kathrina Irene",
             "nickname": "Kathrina",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/kathrina_irene.jpg",
-            "jkt48_member_id": 143
+            "jkt48_member_id": 143,
+            "birth_date": "2006-07-26",
+            "blood_type": "A",
+            "zodiac": "Leo",
+            "height": 165,
+            "social_media": {
+                "instagram": "jkt48.kathrina",
+                "x": "I_KathrinaJKT48",
+                "tiktok": "kathrinjkt48"
+            },
+            "jikoshoukai": "Never miss a chance to be a star!",
+            "hobbies": ["Menyanyi", "Menari", "Kuliah komunikasi performing arts"]
         },
         {
             "type": "PASSION",
@@ -376,7 +787,18 @@
             "name": "Lulu Salsabila",
             "nickname": "Lulu",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/lulu_salsabila.jpg",
-            "jkt48_member_id": 148
+            "jkt48_member_id": 148,
+            "birth_date": "2002-10-23",
+            "blood_type": "B",
+            "zodiac": "Scorpio",
+            "height": 157,
+            "social_media": {
+                "instagram": "jkt48.lulu",
+                "x": "A_LuluJKT48",
+                "tiktok": "lulu_jkt48"
+            },
+            "jikoshoukai": "Terang seperti bulan, bersinar seperti bintang.",
+            "hobbies": ["Menyanyi", "Menari", "Memelihara hamster"]
         },
         {
             "type": "DREAM",
@@ -384,7 +806,18 @@
             "name": "Marsha Lenathea",
             "nickname": "Marsha",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/marsha_lenathea.jpg",
-            "jkt48_member_id": 152
+            "jkt48_member_id": 152,
+            "birth_date": "2006-01-09",
+            "blood_type": "O",
+            "zodiac": "Capricorn",
+            "height": 163,
+            "social_media": {
+                "instagram": "jkt48.marsha",
+                "x": "L_MarshaJKT48",
+                "tiktok": "marsha.jkt48"
+            },
+            "jikoshoukai": "Seperti pizza yang selalu dinanti-nantikan semua orang, selalu nantikan aku ya! Halo, aku Marsha.",
+            "hobbies": ["Menyanyi", "Menari", "Menonton anime"]
         },
         {
             "type": "JKT48_VIRTUAL",
@@ -392,7 +825,18 @@
             "name": "Maura Nilambari",
             "nickname": "Maura",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/maura_nilambari.png",
-            "jkt48_member_id": 154
+            "jkt48_member_id": 154,
+            "birth_date": null,
+            "blood_type": null,
+            "zodiac": null,
+            "height": null,
+            "social_media": {
+                "instagram": null,
+                "x": "Maura_jkt48v",
+                "tiktok": null
+            },
+            "jikoshoukai": "Di musim dingin ada salju, di hatimu ada aku! Hai! Aku Maura Nilambari dari JKT48 Virtual generasi ke-2. A cool girl with a warm heart, salam kenal!",
+            "hobbies": ["Menyanyi", "VTubing"]
         },
         {
             "type": "TRAINEE",
@@ -400,7 +844,18 @@
             "name": "Maxine Faye",
             "nickname": "Maxine",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/maxine_faye_lee.jpg",
-            "jkt48_member_id": 155
+            "jkt48_member_id": 155,
+            "birth_date": "2011-12-02",
+            "blood_type": "B",
+            "zodiac": "Sagitarius",
+            "height": 164,
+            "social_media": {
+                "instagram": "maxine.jkt48",
+                "x": "Maxine_JKT48",
+                "tiktok": "jkt48.maxine"
+            },
+            "jikoshoukai": "Faith, trust, and magical pixie dust.",
+            "hobbies": ["Menyanyi", "Menari"]
         },
         {
             "type": "LOVE",
@@ -408,7 +863,18 @@
             "name": "Michelle Alexandra",
             "nickname": "Michie",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/michelle_alexandra.jpg",
-            "jkt48_member_id": 159
+            "jkt48_member_id": 159,
+            "birth_date": "2009-04-22",
+            "blood_type": "O",
+            "zodiac": "Taurus",
+            "height": 160,
+            "social_media": {
+                "instagram": "jkt48.michie_",
+                "x": "Michie_JKT48",
+                "tiktok": "michiejkt48"
+            },
+            "jikoshoukai": "Always your number one, till infinity and beyond. Hello everyone, it's Michie!",
+            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
         },
         {
             "type": "PASSION",
@@ -416,7 +882,18 @@
             "name": "Michelle Levia",
             "nickname": "Levi",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/michelle_levia.jpg",
-            "jkt48_member_id": 161
+            "jkt48_member_id": 161,
+            "birth_date": "2009-01-24",
+            "blood_type": "O",
+            "zodiac": "Aquarius",
+            "height": 168,
+            "social_media": {
+                "instagram": "jkt48.levi",
+                "x": "Levi_JKT48",
+                "tiktok": "jkt48.levi"
+            },
+            "jikoshoukai": "Are you ready? Jalani hari ini dengan menari bersamaku. Yuhu, Aku Levi!",
+            "hobbies": ["Menari", "Menyanyi", "Olahraga"]
         },
         {
             "type": "TRAINEE",
@@ -424,7 +901,18 @@
             "name": "Mikaela Kusjanto",
             "nickname": "Mikaela",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Mikaela_Kusjanto.jpg",
-            "jkt48_member_id": 162
+            "jkt48_member_id": 162,
+            "birth_date": "2007-12-15",
+            "blood_type": "O",
+            "zodiac": "Sagitarius",
+            "height": 166,
+            "social_media": {
+                "instagram": "mikaela.jkt48",
+                "x": "M_MikaelaJKT48",
+                "tiktok": "jkt48.mikaela"
+            },
+            "jikoshoukai": "Ready, set, go! Gameplay aku akan menghiburmu!",
+            "hobbies": ["Bermain game", "Menyanyi", "Menari"]
         },
         {
             "type": "PASSION",
@@ -432,7 +920,18 @@
             "name": "Mutiara Azzahra",
             "nickname": "Muthe",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/mutiara_azzahra.jpg",
-            "jkt48_member_id": 166
+            "jkt48_member_id": 166,
+            "birth_date": "2004-07-12",
+            "blood_type": "B",
+            "zodiac": "Cancer",
+            "height": 158,
+            "social_media": {
+                "instagram": "jkt48.muthe_",
+                "x": "A_MutheJKT48",
+                "tiktok": "muthejkt48"
+            },
+            "jikoshoukai": "Dengan kelincahanku, aku akan menari setiap hari. Panggil Aku, Mu mu mu mu-the!",
+            "hobbies": ["Menari", "Menyanyi", "Olahraga"]
         },
         {
             "type": "LOVE",
@@ -440,7 +939,18 @@
             "name": "Nayla Suji",
             "nickname": "Nayla",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/nayla_suji.jpg",
-            "jkt48_member_id": 175
+            "jkt48_member_id": 175,
+            "birth_date": "2007-06-18",
+            "blood_type": "AB",
+            "zodiac": "Gemini",
+            "height": 161,
+            "social_media": {
+                "instagram": "jkt48.nayla.s",
+                "x": "SNayla_JKT48",
+                "tiktok": "jkt48.nayla"
+            },
+            "jikoshoukai": "Moshi moshi, welcome to Naylalaland! Halo semuanya, bakkyun!",
+            "hobbies": ["Menyanyi", "Menari", "Menonton anime"]
         },
         {
             "type": "DREAM",
@@ -448,7 +958,18 @@
             "name": "Nina Tutachia",
             "nickname": "Nachia",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/nina_tutachia.jpg",
-            "jkt48_member_id": 178
+            "jkt48_member_id": 178,
+            "birth_date": "2009-10-16",
+            "blood_type": "O",
+            "zodiac": "Libra",
+            "height": 162,
+            "social_media": {
+                "instagram": "jkt48.nachia.t",
+                "x": "Nachia_JKT48",
+                "tiktok": "jkt48.nachia"
+            },
+            "jikoshoukai": "Si panda unyu yang selalu ceria! Aku Nachia, bikin kamu bahagia!",
+            "hobbies": ["Menyanyi", "Menari", "Menonton drama"]
         },
         {
             "type": "TRAINEE",
@@ -456,7 +977,18 @@
             "name": "Nur Intan",
             "nickname": "Intan",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/Nur_Intan.jpg",
-            "jkt48_member_id": 182
+            "jkt48_member_id": 182,
+            "birth_date": "2006-02-24",
+            "blood_type": "B",
+            "zodiac": "Pisces",
+            "height": 157,
+            "social_media": {
+                "instagram": "intan.jkt48",
+                "x": "N_IntanJKT48",
+                "tiktok": "jkt48.intan"
+            },
+            "jikoshoukai": "Faith, trust, and magical pixie dust.",
+            "hobbies": ["Menyanyi", "Menari"]
         },
         {
             "type": "DREAM",
@@ -464,7 +996,18 @@
             "name": "Oline Manuel",
             "nickname": "Oline",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/oline_manuel.jpg",
-            "jkt48_member_id": 185
+            "jkt48_member_id": 185,
+            "birth_date": "2007-11-03",
+            "blood_type": "B",
+            "zodiac": "Scorpio",
+            "height": 167,
+            "social_media": {
+                "instagram": "jkt48.oline",
+                "x": "M_OlineJKT48",
+                "tiktok": "jkt48.oline"
+            },
+            "jikoshoukai": "Semangat ku full terus! Gas, gas, gas-Oline!",
+            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
         },
         {
             "type": "JKT48_VIRTUAL",
@@ -472,7 +1015,18 @@
             "name": "Pia Meraleo",
             "nickname": "Pia",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/pia_meraleo.jpg",
-            "jkt48_member_id": 187
+            "jkt48_member_id": 187,
+            "birth_date": null,
+            "blood_type": null,
+            "zodiac": null,
+            "height": null,
+            "social_media": {
+                "instagram": "jkt48v.pia",
+                "x": "PiaMeraleo_JKT48V",
+                "tiktok": null
+            },
+            "jikoshoukai": "Semangat ku membara, siap menghangatkan hari-harimu!",
+            "hobbies": ["Menyanyi", "VTubing"]
         },
         {
             "type": "TRAINEE",
@@ -480,7 +1034,18 @@
             "name": "Putry Jazyta",
             "nickname": "Jazzy",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/putry_jazyta.jpg",
-            "jkt48_member_id": 194
+            "jkt48_member_id": 194,
+            "birth_date": "2011-03-12",
+            "blood_type": "A",
+            "zodiac": "Pisces",
+            "height": 159,
+            "social_media": {
+                "instagram": "jazzy.jkt48",
+                "x": "Jazzy_JKT48",
+                "tiktok": "jkt48.jazzy"
+            },
+            "jikoshoukai": "Musik jazz on, semangat on!",
+            "hobbies": ["Mendengarkan musik", "Mendengarkan cerita"]
         },
         {
             "type": "PASSION",
@@ -488,7 +1053,18 @@
             "name": "Raisha Syifa",
             "nickname": "Raisha",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/raisha_syifa.jpg",
-            "jkt48_member_id": 195
+            "jkt48_member_id": 195,
+            "birth_date": "2007-11-11",
+            "blood_type": "AB",
+            "zodiac": "Scorpio",
+            "height": 163,
+            "social_media": {
+                "instagram": "jkt48.raisha.s",
+                "x": "SW_RaishaJKT48",
+                "tiktok": "jkt48.raisha.s"
+            },
+            "jikoshoukai": "Kalau sakura itu kembang, Aku itu kembanggaanmu!",
+            "hobbies": ["Menyanyi", "Menari", "Membaca"]
         },
         {
             "type": "TRAINEE",
@@ -496,7 +1072,18 @@
             "name": "Ralyne Van Irwan",
             "nickname": "Ralyne",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/ralyne_van_irwan.jpg",
-            "jkt48_member_id": 196
+            "jkt48_member_id": 196,
+            "birth_date": "2011-10-15",
+            "blood_type": "AB",
+            "zodiac": "Libra",
+            "height": 152,
+            "social_media": {
+                "instagram": "ralyne.jkt48",
+                "x": "Ralyne_JKT48",
+                "tiktok": "jkt48.ralyne"
+            },
+            "jikoshoukai": "Ready, set, go! Gameplay aku akan menghiburmu!",
+            "hobbies": ["Bermain game", "Hair styling"]
         },
         {
             "type": "PASSION",
@@ -504,7 +1091,18 @@
             "name": "Ribka Budiman",
             "nickname": "Ribka",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/ribka_budiman.jpg",
-            "jkt48_member_id": 204
+            "jkt48_member_id": 204,
+            "birth_date": "2009-01-13",
+            "blood_type": "O",
+            "zodiac": "Capricorn",
+            "height": 163,
+            "social_media": {
+                "instagram": "jkt48.ribka",
+                "x": "Ribka_JKT48",
+                "tiktok": "jkt48.ribka"
+            },
+            "jikoshoukai": "Mirror mirror on the wall, who's the sweetest in here? It's me, Ribka.",
+            "hobbies": ["Menyanyi", "Menari", "Merias diri"]
         },
         {
             "type": "JKT48_VIRTUAL",
@@ -512,7 +1110,18 @@
             "name": "Sami Maono",
             "nickname": "Sami",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/sami_maono.png",
-            "jkt48_member_id": 217
+            "jkt48_member_id": 217,
+            "birth_date": null,
+            "blood_type": null,
+            "zodiac": null,
+            "height": null,
+            "social_media": {
+                "instagram": null,
+                "x": "SamiMaono_JKT48V",
+                "tiktok": null
+            },
+            "jikoshoukai": "Jangan coba-coba tutup pintu hatimu atau akan aku dobrak dengan anginku!",
+            "hobbies": ["Menyanyi", "VTubing"]
         },
         {
             "type": "DREAM",
@@ -520,7 +1129,18 @@
             "name": "Shabilqis Naila",
             "nickname": "Nala",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/shabilqis_naila.jpg",
-            "jkt48_member_id": 221
+            "jkt48_member_id": 221,
+            "birth_date": "2008-09-01",
+            "blood_type": "B",
+            "zodiac": "Virgo",
+            "height": 160,
+            "social_media": {
+                "instagram": "jkt48.nala",
+                "x": "Nala_JKT48",
+                "tiktok": "jkt48.nala"
+            },
+            "jikoshoukai": "Roar! Si singa pemberani yang siap menyemangati harimu.",
+            "hobbies": ["Menyanyi", "Menari", "Seni"]
         },
         {
             "type": "TRAINEE",
@@ -528,7 +1148,18 @@
             "name": "Sona Kalyana",
             "nickname": "Sona",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/sona_kalyana.jpg",
-            "jkt48_member_id": 231
+            "jkt48_member_id": 231,
+            "birth_date": "2011-12-01",
+            "blood_type": "O",
+            "zodiac": "Sagitarius",
+            "height": 154,
+            "social_media": {
+                "instagram": "sona.jkt48",
+                "x": "Sona_JKT48",
+                "tiktok": "jkt48.sona"
+            },
+            "jikoshoukai": "Hip-hop! Aku Sona, buat kamu terpesona!",
+            "hobbies": ["Menari", "Membaca"]
         },
         {
             "type": "JKT48_VIRTUAL",
@@ -536,7 +1167,18 @@
             "name": "Tana Nona",
             "nickname": "Tana",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/tana_nona.jpg",
-            "jkt48_member_id": 238
+            "jkt48_member_id": 238,
+            "birth_date": null,
+            "blood_type": null,
+            "zodiac": null,
+            "height": null,
+            "social_media": {
+                "instagram": "jkt48v.tana",
+                "x": "TanaNona_JKT48V",
+                "tiktok": null
+            },
+            "jikoshoukai": "Wazzup ma brozz! I'm fresh like a breeze. JKT48 Virtual Tana Nona, cool enough to make you freeze!",
+            "hobbies": ["Menyanyi", "VTubing", "Gaming"]
         },
         {
             "type": "PASSION",
@@ -544,7 +1186,18 @@
             "name": "Victoria Kimberly",
             "nickname": "Kimmy",
             "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/victoria_kimberly.jpg",
-            "jkt48_member_id": 244
+            "jkt48_member_id": 244,
+            "birth_date": "2010-03-08",
+            "blood_type": "AB",
+            "zodiac": "Pisces",
+            "height": 158,
+            "social_media": {
+                "instagram": "jkt48.kimmy",
+                "x": "Kimmy_JKT48",
+                "tiktok": "jkt48.kimmy"
+            },
+            "jikoshoukai": "Baby hamster yang lincah, aku akan berlari-lari di pikiranmu! Haloha, katakan Kimmy!",
+            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
         }
     ]
 }
