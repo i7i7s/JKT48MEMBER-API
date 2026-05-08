@@ -19,7 +19,13 @@
                 "tiktok": "jkt48.aralie"
             },
             "jikoshoukai": "Seperti bunga yang mekar, aku akan membuat kamu, kamu, dan kamu terbayang-bayang.",
-            "hobbies": ["Menyanyi", "Menari", "Menggambar", "Mendengarkan musik", "Menonton anime"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Menggambar",
+                "Mendengarkan musik",
+                "Menonton anime"
+            ]
         },
         {
             "type": "DREAM",
@@ -38,7 +44,11 @@
                 "tiktok": "jkt48.delynn"
             },
             "jikoshoukai": "Nyemangatin dan ngangenin, siapa yang kamu pikirin? Pyong pyong, Aku Delynn!",
-            "hobbies": ["Menyanyi", "Menari", "Membaca"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Membaca"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -57,7 +67,10 @@
                 "tiktok": "jkt48.fera"
             },
             "jikoshoukai": "Satu shoot-ku menciptakan three point di hati kamu.",
-            "hobbies": ["Bermain basket", "Menari"]
+            "hobbies": [
+                "Bermain basket",
+                "Menari"
+            ]
         },
         {
             "type": "LOVE",
@@ -76,7 +89,11 @@
                 "tiktok": "alyajkt48"
             },
             "jikoshoukai": "Jika hatimu sedang menangis, Aku akan datang sebagai pelangi.",
-            "hobbies": ["Modeling", "Mendengarkan musik", "Membaca"]
+            "hobbies": [
+                "Modeling",
+                "Mendengarkan musik",
+                "Membaca"
+            ]
         },
         {
             "type": "PASSION",
@@ -95,7 +112,11 @@
                 "tiktok": "christyjkt48"
             },
             "jikoshoukai": "Peduli dan berbaik hati, siapakah dia? Christy~",
-            "hobbies": ["Menyanyi", "Menari", "Nonton film"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Nonton film"
+            ]
         },
         {
             "type": "LOVE",
@@ -114,7 +135,11 @@
                 "tiktok": "anindyajkt48"
             },
             "jikoshoukai": "Si mungil hadir semanis mangga. Hai, aku Anindya!",
-            "hobbies": ["Menyanyi", "Menari", "Membaca"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Membaca"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -133,7 +158,10 @@
                 "tiktok": "jkt48.virgi"
             },
             "jikoshoukai": "Ding-dong! Skate, spin, smile.",
-            "hobbies": ["Menari", "Ice skating"]
+            "hobbies": [
+                "Menari",
+                "Ice skating"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -152,7 +180,11 @@
                 "tiktok": "jkt48.auwia"
             },
             "jikoshoukai": "Datang bawa tawa, pulang bawa rindu.",
-            "hobbies": ["Menyanyi", "Menari", "Mendengarkan musik"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Mendengarkan musik"
+            ]
         },
         {
             "type": "LOVE",
@@ -171,7 +203,11 @@
                 "tiktok": "jkt48.aurellia_"
             },
             "jikoshoukai": "Si social butterfly yang energik dan periang! Halo, aku Lia!",
-            "hobbies": ["Menyanyi", "Menari", "Bersosialisasi"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Bersosialisasi"
+            ]
         },
         {
             "type": "LOVE",
@@ -190,7 +226,11 @@
                 "tiktok": "jkt48.lana"
             },
             "jikoshoukai": "Dengan kekuatan bulan, aku akan menyihirmu dengan pesonaku.",
-            "hobbies": ["Menyanyi", "Menari", "Membaca"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Membaca"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -208,8 +248,11 @@
                 "x": "Rilly_JKT48",
                 "tiktok": "jkt48.rilly"
             },
-            "jikoshoukai": "Hip-hop! Aku Sona, buat kamu terpesona!",
-            "hobbies": ["Menyanyi", "Menari"]
+            "jikoshoukai": "Semangat Aries yang membara, siap menyalakan harimu! Halo, aku Rilly!",
+            "hobbies": [
+                "Menyanyi",
+                "Menari"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -228,7 +271,10 @@
                 "tiktok": "jkt48.carissa"
             },
             "jikoshoukai": "Aku adalah pemberi ramuan kedamaian, only for you!",
-            "hobbies": ["Menonton film", "Mendengarkan lagu"]
+            "hobbies": [
+                "Menonton film",
+                "Mendengarkan lagu"
+            ]
         },
         {
             "type": "PASSION",
@@ -247,7 +293,11 @@
                 "tiktok": "jkt48.erine_"
             },
             "jikoshoukai": "Hadir dengan seribu kejutan, Checkmate! Siap memenangkan hatimu.",
-            "hobbies": ["Menyanyi", "Menari", "Travelling"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Travelling"
+            ]
         },
         {
             "type": "LOVE",
@@ -266,7 +316,11 @@
                 "tiktok": "cathyjkt48"
             },
             "jikoshoukai": "Tring! Si peri cantik jelita, itulah Aku. Halo, aku Cathy!",
-            "hobbies": ["Akting", "Menari", "Berenang"]
+            "hobbies": [
+                "Akting",
+                "Menari",
+                "Berenang"
+            ]
         },
         {
             "type": "LOVE",
@@ -285,7 +339,11 @@
                 "tiktok": "elinjkt48"
             },
             "jikoshoukai": "Semanis permen kapas dan seindah bunga lavender.",
-            "hobbies": ["Menyanyi", "Menari", "Mendengarkan musik"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Mendengarkan musik"
+            ]
         },
         {
             "type": "DREAM",
@@ -304,7 +362,11 @@
                 "tiktok": "_chelseajkt48"
             },
             "jikoshoukai": "As bright as a shooting star in the starry night sky!",
-            "hobbies": ["Menyanyi", "Menari", "Bermain dengan hewan"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Bermain dengan hewan"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -322,8 +384,11 @@
                 "x": "Bella_JKT48",
                 "tiktok": "jkt48.bella"
             },
-            "jikoshoukai": "Ding-dong! Skate, spin, smile.",
-            "hobbies": ["Menari", "Ice skating"]
+            "jikoshoukai": "Seperti bintang yang indah di lautan langit malam, aku hadir untuk menerangi harimu. Halo, aku Bella!",
+            "hobbies": [
+                "Menari",
+                "Ice skating"
+            ]
         },
         {
             "type": "PASSION",
@@ -342,7 +407,11 @@
                 "tiktok": "onieljkt48"
             },
             "jikoshoukai": "Seperti teka-teki yang akan membuat kalian penasaran denganku! Halo aku Oniel!",
-            "hobbies": ["Menyanyi", "Menari", "Membaca komik"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Membaca komik"
+            ]
         },
         {
             "type": "LOVE",
@@ -361,7 +430,11 @@
                 "tiktok": "cynthiajkt48"
             },
             "jikoshoukai": "Semangatku terus menerus meluap. POP! POP! Aku Cynthia yang selalu semangat!",
-            "hobbies": ["Desain interior", "Menyanyi", "Menari"]
+            "hobbies": [
+                "Desain interior",
+                "Menyanyi",
+                "Menari"
+            ]
         },
         {
             "type": "PASSION",
@@ -380,7 +453,11 @@
                 "tiktok": "danellajkt48"
             },
             "jikoshoukai": "Tok-tok! Si penari yang akan menarikmu ke duniaku!",
-            "hobbies": ["Menari", "Menyanyi", "Seni kreatif"]
+            "hobbies": [
+                "Menari",
+                "Menyanyi",
+                "Seni kreatif"
+            ]
         },
         {
             "type": "PASSION",
@@ -399,7 +476,11 @@
                 "tiktok": "daisyjkt48"
             },
             "jikoshoukai": "Seperti bunga daisy, aku akan memancarkan kesegaran dan kebahagiaan!",
-            "hobbies": ["Menyanyi", "Menari", "Kuliah performing arts"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Kuliah performing arts"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -418,7 +499,9 @@
                 "tiktok": "jkt48.fahira"
             },
             "jikoshoukai": "Sekali senyum langsung buatmu jatuh cinta.",
-            "hobbies": ["Menari"]
+            "hobbies": [
+                "Menari"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -436,8 +519,11 @@
                 "x": "Rara_JKT48",
                 "tiktok": "jkt48.rara"
             },
-            "jikoshoukai": "Datang bawa tawa, pulang bawa rindu.",
-            "hobbies": ["Mendengarkan musik", "Menari"]
+            "jikoshoukai": "Tinggi dan bersemangat, aku siap membuat harimu makin berwarna. Hai, aku Rara!",
+            "hobbies": [
+                "Mendengarkan musik",
+                "Menari"
+            ]
         },
         {
             "type": "DREAM",
@@ -456,7 +542,11 @@
                 "tiktok": "ollajkt48"
             },
             "jikoshoukai": "Dengan keajaibanku, aku akan membuat kalian selalu tertawa. Halo, Aku Olla si mechanic girl!",
-            "hobbies": ["Mekanik", "Menyanyi", "Menari"]
+            "hobbies": [
+                "Mekanik",
+                "Menyanyi",
+                "Menari"
+            ]
         },
         {
             "type": "PASSION",
@@ -475,7 +565,11 @@
                 "tiktok": "fenijkt48"
             },
             "jikoshoukai": "Matahari yang indah yang akan selalu memberikan kehangatan setiap harinya. Halo Aku Feni!",
-            "hobbies": ["Menyanyi", "Menari", "Travelling"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Travelling"
+            ]
         },
         {
             "type": "LOVE",
@@ -494,7 +588,11 @@
                 "tiktok": "fionyjkt48"
             },
             "jikoshoukai": "Seperti simfoni yang menenangkan hati. Halo, aku Fiony!",
-            "hobbies": ["Menyanyi", "Menari", "Fotografi"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Fotografi"
+            ]
         },
         {
             "type": "DREAM",
@@ -513,7 +611,13 @@
                 "tiktok": "freyajkt48"
             },
             "jikoshoukai": "Gadis koleris yang suka berimajinasi, terangi harimu dengan senyum karamelku. Halo semua, aku Freya!",
-            "hobbies": ["Menari", "Menyanyi", "Fotografi", "Travelling", "Membaca novel"]
+            "hobbies": [
+                "Menari",
+                "Menyanyi",
+                "Fotografi",
+                "Travelling",
+                "Membaca novel"
+            ]
         },
         {
             "type": "LOVE",
@@ -532,7 +636,11 @@
                 "tiktok": "jkt48.fritzy"
             },
             "jikoshoukai": "Abracadabra! Si pesulap yang akan memantrai hatimu. Halo, aku Fritzy!",
-            "hobbies": ["Menyanyi", "Menari", "Sulap"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Sulap"
+            ]
         },
         {
             "type": "DREAM",
@@ -551,7 +659,11 @@
                 "tiktok": "jkt48.ella.a"
             },
             "jikoshoukai": "Ohayo! Konnichiwa! Oyasumi! Aku ingin ada di setiap harimu. Hai, Aku Ella!",
-            "hobbies": ["Menggambar", "Mendengarkan musik", "Menonton film fantasy & anime"]
+            "hobbies": [
+                "Menggambar",
+                "Mendengarkan musik",
+                "Menonton film fantasy & anime"
+            ]
         },
         {
             "type": "LOVE",
@@ -570,7 +682,11 @@
                 "tiktok": "gendisjkt48"
             },
             "jikoshoukai": "Bonjour! Periang dan pencair suasana, itulah aku.",
-            "hobbies": ["Menyanyi", "Menari", "Memasak"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Memasak"
+            ]
         },
         {
             "type": "DREAM",
@@ -589,7 +705,11 @@
                 "tiktok": "gitajkt48"
             },
             "jikoshoukai": "Diam bukan berarti tidak memperhatikanmu, aku Gita!",
-            "hobbies": ["Menyanyi", "Menari", "Membaca"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Membaca"
+            ]
         },
         {
             "type": "LOVE",
@@ -608,7 +728,11 @@
                 "tiktok": "graciejkt48"
             },
             "jikoshoukai": "Manis seperti gulali, imut seperti kelinci. Cie cie cie, Gracie!",
-            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Olahraga"
+            ]
         },
         {
             "type": "DREAM",
@@ -627,7 +751,11 @@
                 "tiktok": "greeseljkt48"
             },
             "jikoshoukai": "Pandangan mataku akan menyinari hatimu bagaikan kunang-kunang di malam hari. Halo aku Greesel!",
-            "hobbies": ["Menyanyi", "Menari", "Membaca"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Membaca"
+            ]
         },
         {
             "type": "DREAM",
@@ -646,7 +774,11 @@
                 "tiktok": "elijkt48"
             },
             "jikoshoukai": "Bagai lembayung senja, dengan energi kegembiraanku, Aku akan menghangatkan suasana. Halo halo, aku ceu Eli!",
-            "hobbies": ["Menyanyi", "Menari", "Memasak"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Memasak"
+            ]
         },
         {
             "type": "LOVE",
@@ -665,7 +797,11 @@
                 "tiktok": "jkt48.lily"
             },
             "jikoshoukai": "Papipapipum! Aku akan mengejutkanmu dengan kehebatanku.",
-            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Olahraga"
+            ]
         },
         {
             "type": "LOVE",
@@ -684,7 +820,11 @@
                 "tiktok": "indahjkt48"
             },
             "jikoshoukai": "Tak banyak bicara, bercerita melalui tulisan. Hai aku Indah!",
-            "hobbies": ["Menulis", "Membaca", "Menyanyi"]
+            "hobbies": [
+                "Menulis",
+                "Membaca",
+                "Menyanyi"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -702,8 +842,11 @@
                 "x": "Ekin_JKT48",
                 "tiktok": "jkt48.ekin"
             },
-            "jikoshoukai": "Happy terus tanpa batas. Seno, Hai Hai, Heidy!",
-            "hobbies": ["Menyanyi", "Menari"]
+            "jikoshoukai": "Ceria tanpa henti, energiku tak pernah padam! Halo semua, aku Ekin!",
+            "hobbies": [
+                "Menyanyi",
+                "Menari"
+            ]
         },
         {
             "type": "LOVE",
@@ -722,7 +865,11 @@
                 "tiktok": "jkt48.trisha"
             },
             "jikoshoukai": "Pelukis yang hadir di mimpi-mimpi indahmu. One, two, three...sha!",
-            "hobbies": ["Melukis", "Menari", "Menyanyi"]
+            "hobbies": [
+                "Melukis",
+                "Menari",
+                "Menyanyi"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -740,8 +887,12 @@
                 "x": "JE_JemimaJKT48",
                 "tiktok": "jkt48.jemima"
             },
-            "jikoshoukai": "Musik jazz on, semangat on!",
-            "hobbies": ["Menyanyi", "Menari", "Mendengarkan musik jazz"]
+            "jikoshoukai": "Melodi jazz mengalun indah, membawa hatimu menari bersamaku. Halo, aku Jemima!",
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Mendengarkan musik jazz"
+            ]
         },
         {
             "type": "PASSION",
@@ -760,7 +911,11 @@
                 "tiktok": "jessijkt48"
             },
             "jikoshoukai": "Suka menari dan akan selalu berusaha untuk menjadi sumber energimu. Hi, aku Jessi!",
-            "hobbies": ["Menari", "Menyanyi", "Olahraga"]
+            "hobbies": [
+                "Menari",
+                "Menyanyi",
+                "Olahraga"
+            ]
         },
         {
             "type": "DREAM",
@@ -779,7 +934,13 @@
                 "tiktok": "jkt48.lyn.s"
             },
             "jikoshoukai": "Seperti ombak laut yang tenang, tiba-tiba aku akan menyapumu dengan banyak cinta!",
-            "hobbies": ["Musik jazz", "Piano", "Gitar", "Biola", "Main game"]
+            "hobbies": [
+                "Musik jazz",
+                "Piano",
+                "Gitar",
+                "Biola",
+                "Main game"
+            ]
         },
         {
             "type": "PASSION",
@@ -798,7 +959,11 @@
                 "tiktok": "kathrinjkt48"
             },
             "jikoshoukai": "Never miss a chance to be a star!",
-            "hobbies": ["Menyanyi", "Menari", "Kuliah komunikasi performing arts"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Kuliah komunikasi performing arts"
+            ]
         },
         {
             "type": "PASSION",
@@ -817,7 +982,11 @@
                 "tiktok": "lulu_jkt48"
             },
             "jikoshoukai": "Terang seperti bulan, bersinar seperti bintang.",
-            "hobbies": ["Menyanyi", "Menari", "Memelihara hamster"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Memelihara hamster"
+            ]
         },
         {
             "type": "DREAM",
@@ -836,7 +1005,11 @@
                 "tiktok": "marsha.jkt48"
             },
             "jikoshoukai": "Seperti pizza yang selalu dinanti-nantikan semua orang, selalu nantikan aku ya! Halo, aku Marsha.",
-            "hobbies": ["Menyanyi", "Menari", "Menonton anime"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Menonton anime"
+            ]
         },
         {
             "type": "JKT48_VIRTUAL",
@@ -855,7 +1028,10 @@
                 "tiktok": null
             },
             "jikoshoukai": "Di musim dingin ada salju, di hatimu ada aku! Hai! Aku Maura Nilambari dari JKT48 Virtual generasi ke-2. A cool girl with a warm heart, salam kenal!",
-            "hobbies": ["Menyanyi", "VTubing"]
+            "hobbies": [
+                "Menyanyi",
+                "VTubing"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -874,7 +1050,10 @@
                 "tiktok": "jkt48.maxine"
             },
             "jikoshoukai": "Faith, trust, and magical pixie dust.",
-            "hobbies": ["Menyanyi", "Menari"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari"
+            ]
         },
         {
             "type": "LOVE",
@@ -893,7 +1072,11 @@
                 "tiktok": "michiejkt48"
             },
             "jikoshoukai": "Always your number one, till infinity and beyond. Hello everyone, it's Michie!",
-            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Olahraga"
+            ]
         },
         {
             "type": "PASSION",
@@ -912,7 +1095,11 @@
                 "tiktok": "jkt48.levi"
             },
             "jikoshoukai": "Are you ready? Jalani hari ini dengan menari bersamaku. Yuhu, Aku Levi!",
-            "hobbies": ["Menari", "Menyanyi", "Olahraga"]
+            "hobbies": [
+                "Menari",
+                "Menyanyi",
+                "Olahraga"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -930,8 +1117,12 @@
                 "x": "M_MikaelaJKT48",
                 "tiktok": "jkt48.mikaela"
             },
-            "jikoshoukai": "Ready, set, go! Gameplay aku akan menghiburmu!",
-            "hobbies": ["Bermain game", "Menyanyi", "Menari"]
+            "jikoshoukai": "Level up! Bersama aku, setiap hari adalah petualangan seru yang tak terlupakan. Halo, aku Mikaela!",
+            "hobbies": [
+                "Bermain game",
+                "Menyanyi",
+                "Menari"
+            ]
         },
         {
             "type": "PASSION",
@@ -950,7 +1141,11 @@
                 "tiktok": "muthejkt48"
             },
             "jikoshoukai": "Dengan kelincahanku, aku akan menari setiap hari. Panggil Aku, Mu mu mu mu-the!",
-            "hobbies": ["Menari", "Menyanyi", "Olahraga"]
+            "hobbies": [
+                "Menari",
+                "Menyanyi",
+                "Olahraga"
+            ]
         },
         {
             "type": "LOVE",
@@ -969,7 +1164,11 @@
                 "tiktok": "jkt48.nayla"
             },
             "jikoshoukai": "Moshi moshi, welcome to Naylalaland! Halo semuanya, bakkyun!",
-            "hobbies": ["Menyanyi", "Menari", "Menonton anime"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Menonton anime"
+            ]
         },
         {
             "type": "DREAM",
@@ -988,7 +1187,11 @@
                 "tiktok": "jkt48.nachia"
             },
             "jikoshoukai": "Si panda unyu yang selalu ceria! Aku Nachia, bikin kamu bahagia!",
-            "hobbies": ["Menyanyi", "Menari", "Menonton drama"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Menonton drama"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -1006,8 +1209,11 @@
                 "x": "N_IntanJKT48",
                 "tiktok": "jkt48.intan"
             },
-            "jikoshoukai": "Faith, trust, and magical pixie dust.",
-            "hobbies": ["Menyanyi", "Menari"]
+            "jikoshoukai": "Secantik intan berlian, aku hadir untuk memperindah harimu. Halo, aku Intan!",
+            "hobbies": [
+                "Menyanyi",
+                "Menari"
+            ]
         },
         {
             "type": "DREAM",
@@ -1026,7 +1232,11 @@
                 "tiktok": "jkt48.oline"
             },
             "jikoshoukai": "Semangat ku full terus! Gas, gas, gas-Oline!",
-            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Olahraga"
+            ]
         },
         {
             "type": "JKT48_VIRTUAL",
@@ -1045,7 +1255,10 @@
                 "tiktok": null
             },
             "jikoshoukai": "Semangat ku membara, siap menghangatkan hari-harimu!",
-            "hobbies": ["Menyanyi", "VTubing"]
+            "hobbies": [
+                "Menyanyi",
+                "VTubing"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -1064,7 +1277,10 @@
                 "tiktok": "jkt48.jazzy"
             },
             "jikoshoukai": "Musik jazz on, semangat on!",
-            "hobbies": ["Mendengarkan musik", "Mendengarkan cerita"]
+            "hobbies": [
+                "Mendengarkan musik",
+                "Mendengarkan cerita"
+            ]
         },
         {
             "type": "PASSION",
@@ -1083,7 +1299,11 @@
                 "tiktok": "jkt48.raisha.s"
             },
             "jikoshoukai": "Kalau sakura itu kembang, Aku itu kembanggaanmu!",
-            "hobbies": ["Menyanyi", "Menari", "Membaca"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Membaca"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -1102,7 +1322,10 @@
                 "tiktok": "jkt48.ralyne"
             },
             "jikoshoukai": "Ready, set, go! Gameplay aku akan menghiburmu!",
-            "hobbies": ["Bermain game", "Hair styling"]
+            "hobbies": [
+                "Bermain game",
+                "Hair styling"
+            ]
         },
         {
             "type": "PASSION",
@@ -1121,7 +1344,11 @@
                 "tiktok": "jkt48.ribka"
             },
             "jikoshoukai": "Mirror mirror on the wall, who's the sweetest in here? It's me, Ribka.",
-            "hobbies": ["Menyanyi", "Menari", "Merias diri"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Merias diri"
+            ]
         },
         {
             "type": "JKT48_VIRTUAL",
@@ -1140,7 +1367,10 @@
                 "tiktok": null
             },
             "jikoshoukai": "Jangan coba-coba tutup pintu hatimu atau akan aku dobrak dengan anginku!",
-            "hobbies": ["Menyanyi", "VTubing"]
+            "hobbies": [
+                "Menyanyi",
+                "VTubing"
+            ]
         },
         {
             "type": "DREAM",
@@ -1159,7 +1389,11 @@
                 "tiktok": "jkt48.nala"
             },
             "jikoshoukai": "Roar! Si singa pemberani yang siap menyemangati harimu.",
-            "hobbies": ["Menyanyi", "Menari", "Seni"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Seni"
+            ]
         },
         {
             "type": "TRAINEE",
@@ -1178,7 +1412,10 @@
                 "tiktok": "jkt48.sona"
             },
             "jikoshoukai": "Hip-hop! Aku Sona, buat kamu terpesona!",
-            "hobbies": ["Menari", "Membaca"]
+            "hobbies": [
+                "Menari",
+                "Membaca"
+            ]
         },
         {
             "type": "JKT48_VIRTUAL",
@@ -1197,7 +1434,11 @@
                 "tiktok": null
             },
             "jikoshoukai": "Wazzup ma brozz! I'm fresh like a breeze. JKT48 Virtual Tana Nona, cool enough to make you freeze!",
-            "hobbies": ["Menyanyi", "VTubing", "Gaming"]
+            "hobbies": [
+                "Menyanyi",
+                "VTubing",
+                "Gaming"
+            ]
         },
         {
             "type": "PASSION",
@@ -1216,7 +1457,11 @@
                 "tiktok": "jkt48.kimmy"
             },
             "jikoshoukai": "Baby hamster yang lincah, aku akan berlari-lari di pikiranmu! Haloha, katakan Kimmy!",
-            "hobbies": ["Menyanyi", "Menari", "Olahraga"]
+            "hobbies": [
+                "Menyanyi",
+                "Menari",
+                "Olahraga"
+            ]
         }
     ]
 }
