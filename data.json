@@ -517,6 +517,25 @@
         },
         {
             "type": "LOVE",
+            "code": "FRITZY_ROSMERIAN",
+            "name": "Fritzy Rosmerian",
+            "nickname": "Fritzy",
+            "photo": "https://jkt48.com/api/v1/storages/media/jkt48-member/fritzy_rosmerian.jpg",
+            "jkt48_member_id": 96,
+            "birth_date": "2008-07-28",
+            "blood_type": "A",
+            "zodiac": "Leo",
+            "height": 155,
+            "social_media": {
+                "instagram": "jkt48.fritzy",
+                "x": "Fritzy_JKT48",
+                "tiktok": "jkt48.fritzy"
+            },
+            "jikoshoukai": "Abracadabra! Si pesulap yang akan memantrai hatimu. Halo, aku Fritzy!",
+            "hobbies": ["Menyanyi", "Menari", "Sulap"]
+        },
+        {
+            "type": "DREAM",
             "code": "GABRIELA_ABIGAIL",
             "name": "Gabriela Abigail",
             "nickname": "Ella",
@@ -554,7 +573,7 @@
             "hobbies": ["Menyanyi", "Menari", "Memasak"]
         },
         {
-            "type": "LOVE",
+            "type": "DREAM",
             "code": "GITA_SEKAR_ANDARINI",
             "name": "Gita Sekar Andarini",
             "nickname": "Gita",
@@ -592,7 +611,7 @@
             "hobbies": ["Menyanyi", "Menari", "Olahraga"]
         },
         {
-            "type": "LOVE",
+            "type": "DREAM",
             "code": "GREESELLA_ADHALIA",
             "name": "Greesella Adhalia",
             "nickname": "Greesel",
@@ -611,7 +630,7 @@
             "hobbies": ["Menyanyi", "Menari", "Membaca"]
         },
         {
-            "type": "LOVE",
+            "type": "DREAM",
             "code": "HELISMA_PUTRI",
             "name": "Helisma Putri",
             "nickname": "Eli",
